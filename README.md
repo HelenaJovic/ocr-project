@@ -36,7 +36,7 @@ pip install numpy pandas opencv-python matplotlib scikit-learn tensorflow keras
 To use this OCR system, place your images in the 'pictures' folder and run the Python script:
 
 ```
-python SC23-G6-RA-43-2020.py
+python Optical Character Recognition (OCR) Project.py
 ```
 
 The script will process the images and output the recognized text along with the calculated Hemming distances.
